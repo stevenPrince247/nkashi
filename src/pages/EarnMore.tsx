@@ -77,7 +77,7 @@ const EarnMore = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Referral Program</h3>
-                <p className="text-sm text-gray-600">Earn ₦500 for each friend you refer</p>
+                <p className="text-sm text-gray-600">Earn ₦5000 for each friend you refer</p>
               </div>
             </div>
             
@@ -126,7 +126,7 @@ const EarnMore = () => {
                       <ul className="text-sm text-blue-700 mt-1 space-y-1">
                         <li>• Share your referral code with friends</li>
                         <li>• They sign up using your code</li>
-                        <li>• You both get ₦500 bonus!</li>
+                        <li>• You both get ₦5000 bonus!</li>
                         <li>• No limit on referrals</li>
                       </ul>
                     </div>
